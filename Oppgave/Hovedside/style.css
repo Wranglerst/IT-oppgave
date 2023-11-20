@@ -14,6 +14,9 @@ header{
     margin-bottom: 0.5rem;
     background-color:#126782;
     padding:0.12rem;
+    padding-left: 0.48rem;
+    padding-right: 0.48rem;
+    
 }
 .header-link{
     text-decoration: none;
