@@ -29,18 +29,42 @@ header{
 }
 
 main{
+    display: grid;
+    grid-template-columns: 50vw / 50vw;
     margin:0;
+    background-color: #126782;
+    height: 100vh;
+    width: 100vw;
 }
+
+main>div{
+    height: 25vw;
+    width: 50vw;
+}
+
 .phi{
+    grid-area: 1/1;
     display: flex;
     margin:0;
-    background-image: url(bilder/bakgrunn.jpg);
-    width:50rem;
-    height:20rem;
+    background-image: url(bilder/phiphi.jpg);
     color:white;
+    max-width: 50vw;
 }
-.phi > h1{
+.phi>h1{
     display:inline-block;
     align-self:end;
     margin-left:1rem;
+}
+.lanta{
+    grid-area:1/2;
+    background-color: blue;
+}
+
+.railay{
+    grid-area: 2/1;
+    background-color: red;
+}
+.phuket{
+    grid-area: 2/2;
+    background-color: purple;
 }
