@@ -13,10 +13,10 @@ header{
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     background-color:#126782;
-    padding:0.12rem;
+    padding:0.15rem;
     padding-left: 0.48rem;
     padding-right: 0.48rem;
-    
+    border-radius: 2rem;
 }
 .header-link{
     text-decoration: none;
