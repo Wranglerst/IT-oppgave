@@ -42,4 +42,5 @@ main{
 .phi > h1{
     display:inline-block;
     align-self:end;
+    margin-left:1rem;
 }
