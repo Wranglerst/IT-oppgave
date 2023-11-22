@@ -61,6 +61,7 @@ main{
     95%{background-image: url(bilder/phiphi.jpg); opacity: 0;}
 }
 
+
 @keyframes ani-lanta {
     0%{background-image: url(bilder/lanta.jpg); opacity: 0.9;}
     5%{background-image: url(bilder/lanta.jpg); opacity: 0.85;}
@@ -129,6 +130,99 @@ main{
     95%{background-image: url(bilder/phuket.jpg); opacity: 0;}
 }
 
+@keyframes ani-anti-phiphi {
+    0%{background-image: url(bilder/phiphi.jpg); opacity: 0.05;}
+    5%{background-image: url(bilder/phiphi.jpg); opacity: 0.1;}
+    10%{background-image: url(bilder/phiphi.jpg); opacity: 0.15;}
+    15%{background-image: url(bilder/phiphi.jpg); opacity: 0.2;}
+    20%{background-image: url(bilder/phiphi.jpg); opacity: 0.25;}
+    25%{background-image: url(bilder/phiphi.jpg); opacity: 0.3;}
+    30%{background-image: url(bilder/phiphi.jpg); opacity: 0.35;}
+    35%{background-image: url(bilder/phiphi.jpg); opacity: 0.4;}
+    40%{background-image: url(bilder/phiphi.jpg); opacity: 0.45;}
+    45%{background-image: url(bilder/phiphi.jpg); opacity: 0.5;}
+    50%{background-image: url(bilder/phiphi.jpg); opacity: 0.55;}
+    55%{background-image: url(bilder/phiphi.jpg); opacity: 0.6;}
+    60%{background-image: url(bilder/phiphi.jpg); opacity: 0.65;}
+    65%{background-image: url(bilder/phiphi.jpg); opacity: 0.7;}
+    70%{background-image: url(bilder/phiphi.jpg); opacity: 0.75;}
+    75%{background-image: url(bilder/phiphi.jpg); opacity: 0.8;}
+    80%{background-image: url(bilder/phiphi.jpg); opacity: 0.85;}
+    85%{background-image: url(bilder/phiphi.jpg); opacity: 0.9;}
+    90%{background-image: url(bilder/phiphi.jpg); opacity: 0.95;}
+    95%{background-image: url(bilder/phiphi.jpg); opacity: 1;}
+}
+
+@keyframes ani-anti-lanta {
+    0%{background-image: url(bilder/lanta.jpg); opacity: 0.05;}
+    5%{background-image: url(bilder/lanta.jpg); opacity: 0.1;}
+    10%{background-image: url(bilder/lanta.jpg); opacity: 0.15;}
+    15%{background-image: url(bilder/lanta.jpg); opacity: 0.2;}
+    20%{background-image: url(bilder/lanta.jpg); opacity: 0.25;}
+    25%{background-image: url(bilder/lanta.jpg); opacity: 0.3;}
+    30%{background-image: url(bilder/lanta.jpg); opacity: 0.35;}
+    35%{background-image: url(bilder/lanta.jpg); opacity: 0.4;}
+    40%{background-image: url(bilder/lanta.jpg); opacity: 0.45;}
+    45%{background-image: url(bilder/lanta.jpg); opacity: 0.5;}
+    50%{background-image: url(bilder/lanta.jpg); opacity: 0.55;}
+    55%{background-image: url(bilder/lanta.jpg); opacity: 0.6;}
+    60%{background-image: url(bilder/lanta.jpg); opacity: 0.65;}
+    65%{background-image: url(bilder/lanta.jpg); opacity: 0.7;}
+    70%{background-image: url(bilder/lanta.jpg); opacity: 0.75;}
+    75%{background-image: url(bilder/lanta.jpg); opacity: 0.8;}
+    80%{background-image: url(bilder/lanta.jpg); opacity: 0.85;}
+    85%{background-image: url(bilder/lanta.jpg); opacity: 0.9;}
+    90%{background-image: url(bilder/lanta.jpg); opacity: 0.95;}
+    95%{background-image: url(bilder/lanta.jpg); opacity: 1;}
+}
+
+@keyframes ani-anti-phuket {
+    0%{background-image: url(bilder/phuket.jpg); opacity: 0.05;}
+    5%{background-image: url(bilder/phuket.jpg); opacity: 0.1;}
+    10%{background-image: url(bilder/phuket.jpg); opacity: 0.15;}
+    15%{background-image: url(bilder/phuket.jpg); opacity: 0.2;}
+    20%{background-image: url(bilder/phuket.jpg); opacity: 0.25;}
+    25%{background-image: url(bilder/phuket.jpg); opacity: 0.3;}
+    30%{background-image: url(bilder/phuket.jpg); opacity: 0.35;}
+    35%{background-image: url(bilder/phuket.jpg); opacity: 0.4;}
+    40%{background-image: url(bilder/phuket.jpg); opacity: 0.45;}
+    45%{background-image: url(bilder/phuket.jpg); opacity: 0.5;}
+    50%{background-image: url(bilder/phuket.jpg); opacity: 0.55;}
+    55%{background-image: url(bilder/phuket.jpg); opacity: 0.6;}
+    60%{background-image: url(bilder/phuket.jpg); opacity: 0.65;}
+    65%{background-image: url(bilder/phuket.jpg); opacity: 0.7;}
+    70%{background-image: url(bilder/phuket.jpg); opacity: 0.75;}
+    75%{background-image: url(bilder/phuket.jpg); opacity: 0.8;}
+    80%{background-image: url(bilder/phuket.jpg); opacity: 0.85;}
+    85%{background-image: url(bilder/phuket.jpg); opacity: 0.9;}
+    90%{background-image: url(bilder/phuket.jpg); opacity: 0.95;}
+    95%{background-image: url(bilder/phuket.jpg); opacity: 1;}
+}
+
+@keyframes ani-anti-bangkok {
+    0%{background-image: url(bilder/bangkok.jpg); opacity: 0.05;}
+    5%{background-image: url(bilder/bangkok.jpg); opacity: 0.1;}
+    10%{background-image: url(bilder/bangkok.jpg); opacity: 0.15;}
+    15%{background-image: url(bilder/bangkok.jpg); opacity: 0.2;}
+    20%{background-image: url(bilder/bangkok.jpg); opacity: 0.25;}
+    25%{background-image: url(bilder/bangkok.jpg); opacity: 0.3;}
+    30%{background-image: url(bilder/bangkok.jpg); opacity: 0.35;}
+    35%{background-image: url(bilder/bangkok.jpg); opacity: 0.4;}
+    40%{background-image: url(bilder/bangkok.jpg); opacity: 0.45;}
+    45%{background-image: url(bilder/bangkok.jpg); opacity: 0.5;}
+    50%{background-image: url(bilder/bangkok.jpg); opacity: 0.55;}
+    55%{background-image: url(bilder/bangkok.jpg); opacity: 0.6;}
+    60%{background-image: url(bilder/bangkok.jpg); opacity: 0.65;}
+    65%{background-image: url(bilder/bangkok.jpg); opacity: 0.7;}
+    70%{background-image: url(bilder/bangkok.jpg); opacity: 0.75;}
+    75%{background-image: url(bilder/bangkok.jpg); opacity: 0.8;}
+    80%{background-image: url(bilder/bangkok.jpg); opacity: 0.85;}
+    85%{background-image: url(bilder/bangkok.jpg); opacity: 0.9;}
+    90%{background-image: url(bilder/bangkok.jpg); opacity: 0.95;}
+    95%{background-image: url(bilder/bangkok.jpg); opacity: 1;}
+}
+
+
 .link-phi {
     grid-area: 1/1;
     max-width: 50vw;
@@ -136,6 +230,7 @@ main{
     text-decoration: none;
     background-image: url(bilder/phiphi2.jpg);
     background-size: cover;
+    display:flex;
 }
 
 .link-lanta {
@@ -145,6 +240,7 @@ main{
     text-decoration: none;
     background-image: url(bilder/lanta2.jpg);
     background-size: cover;
+    display:flex;
 }
 
 .link-bangkok {
@@ -154,6 +250,7 @@ main{
     text-decoration: none;
     background-image: url(bilder/bangkok2.jpg);
     background-size: cover;
+    display:flex;
 }
 
 .link-phuket {
@@ -163,35 +260,49 @@ main{
     text-decoration: none;
     background-image: url(bilder/phuket2.jpg);
     background-size: cover;
+    display:flex;
 }
 
+
 .phi{
-    display: flex;
+    position:absolute;
     margin:0;
     background-image: url(bilder/phiphi.jpg);
     color:white;
     width: 50vw;
     height: 50vh;
     background-size: cover;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    z-index: 50;
+    animation-name:ani-anti-phiphi;
+    animation-duration:0.6s;
 }
+.reisetekst{
+    z-index: 100;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    color:white;
+    align-self:end;
+    padding-left: 1rem;
+}
+
 
 .phi:hover{
     background-image: url(bilder/phiphi2.jpg);
     background-size: cover;
-    animation-name:ani-phiphi;
+    animation:ani-phiphi;
     animation-duration: 0.6s;
 }
 
 .lanta{
-    display:flex;
-    grid-area:2/1;
-    background-image:url(bilder/lanta.jpg);
-    background-size: cover;
+    position:absolute;
+    margin:0;
+    background-image: url(bilder/lanta.jpg);
     color:white;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     width: 50vw;
     height: 50vh;
+    background-size: cover;
+    z-index: 50;
+    animation-name:ani-anti-lanta;
+    animation-duration:0.6s;
 }
 .lanta:hover{
     background-image: url(bilder/lanta2.jpg);
@@ -202,14 +313,16 @@ main{
 }
 
 .bangkok{
-    display:flex;
-    grid-area: 1/2;
-    background-image:url(bilder/bangkok.jpg);
-    background-size: cover;
+    position:absolute;
+    margin:0;
+    background-image: url(bilder/bangkok.jpg);
     color:white;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     width: 50vw;
     height: 50vh;
+    background-size: cover;
+    z-index: 50;
+    animation-name:ani-anti-bangkok;
+    animation-duration:0.6s;
 }
 .bangkok:hover{
     background-image: url(bilder/bangkok2.jpg);
@@ -218,14 +331,16 @@ main{
     animation-duration: 0.6s;
 }
 .phuket{
-    display:flex;
-    grid-area: 2/2;
-    background-image:url(bilder/phuket.jpg);
-    background-size: cover;
+    position:absolute;
+    margin:0;
+    background-image: url(bilder/phuket.jpg);
     color:white;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     width: 50vw;
     height: 50vh;
+    background-size: cover;
+    z-index: 50;
+    animation-name:ani-anti-phuket;
+    animation-duration:0.6s;
 }
 .phuket:hover{
     background-image: url(bilder/phuket2.jpg);
