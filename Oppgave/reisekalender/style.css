@@ -44,4 +44,8 @@ main{
 .kalenderdag{
     display:flex;
     justify-content: center;
+    outline:black solid 0.06rem;
+    margin:0.12rem;
+    padding:0.12rem;
+    border-radius: 0.9rem;
 }
