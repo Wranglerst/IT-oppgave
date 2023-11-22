@@ -49,16 +49,16 @@ main{
     35%{background-image: url(bilder/phiphi.jpg); opacity: 0.55;}
     40%{background-image: url(bilder/phiphi.jpg); opacity: 0.5;}
     45%{background-image: url(bilder/phiphi.jpg); opacity: 0.5;}
-    50%{background-image: url(bilder/phiphi2.jpg); opacity: 0.5;}
-    55%{background-image: url(bilder/phiphi2.jpg); opacity: 0.55;}
-    60%{background-image: url(bilder/phiphi2.jpg); opacity: 0.6;}
-    65%{background-image: url(bilder/phiphi2.jpg); opacity: 0.65;}
-    70%{background-image: url(bilder/phiphi2.jpg); opacity: 0.7;}
-    75%{background-image: url(bilder/phiphi2.jpg); opacity: 0.75;}
-    80%{background-image: url(bilder/phiphi2.jpg); opacity: 0.8;}
-    85%{background-image: url(bilder/phiphi2.jpg); opacity: 0.85;}
-    90%{background-image: url(bilder/phiphi2.jpg); opacity: 0.9;}
-    95%{background-image: url(bilder/phiphi2.jpg); opacity: 0.95;}
+    50%{background-image: url(bilder/phiphi.jpg); opacity: 0.45;}
+    55%{background-image: url(bilder/phiphi.jpg); opacity: 0.4;}
+    60%{background-image: url(bilder/phiphi.jpg); opacity: 0.35;}
+    65%{background-image: url(bilder/phiphi.jpg); opacity: 0.3;}
+    70%{background-image: url(bilder/phiphi.jpg); opacity: 0.25;}
+    75%{background-image: url(bilder/phiphi.jpg); opacity: 0.2;}
+    80%{background-image: url(bilder/phiphi.jpg); opacity: 0.15;}
+    85%{background-image: url(bilder/phiphi.jpg); opacity: 0.1;}
+    90%{background-image: url(bilder/phiphi.jpg); opacity: 0.05;}
+    95%{background-image: url(bilder/phiphi.jpg); opacity: 0;}
 }
 
 @keyframes ani-lanta {
@@ -72,16 +72,16 @@ main{
     35%{background-image: url(bilder/lanta.jpg); opacity: 0.55;}
     40%{background-image: url(bilder/lanta.jpg); opacity: 0.5;}
     45%{background-image: url(bilder/lanta.jpg); opacity: 0.5;}
-    50%{background-image: url(bilder/lanta2.jpg); opacity: 0.5;}
-    55%{background-image: url(bilder/lanta2.jpg); opacity: 0.55;}
-    60%{background-image: url(bilder/lanta2.jpg); opacity: 0.6;}
-    65%{background-image: url(bilder/lanta2.jpg); opacity: 0.65;}
-    70%{background-image: url(bilder/lanta2.jpg); opacity: 0.7;}
-    75%{background-image: url(bilder/lanta2.jpg); opacity: 0.75;}
-    80%{background-image: url(bilder/lanta2.jpg); opacity: 0.8;}
-    85%{background-image: url(bilder/lanta2.jpg); opacity: 0.85;}
-    90%{background-image: url(bilder/lanta2.jpg); opacity: 0.9;}
-    95%{background-image: url(bilder/lanta2.jpg); opacity: 0.95;}
+    50%{background-image: url(bilder/lanta.jpg); opacity: 0.45;}
+    55%{background-image: url(bilder/lanta.jpg); opacity: 0.4;}
+    60%{background-image: url(bilder/lanta.jpg); opacity: 0.35;}
+    65%{background-image: url(bilder/lanta.jpg); opacity: 0.3;}
+    70%{background-image: url(bilder/lanta.jpg); opacity: 0.25;}
+    75%{background-image: url(bilder/lanta.jpg); opacity: 0.2;}
+    80%{background-image: url(bilder/lanta.jpg); opacity: 0.15;}
+    85%{background-image: url(bilder/lanta.jpg); opacity: 0.1;}
+    90%{background-image: url(bilder/lanta.jpg); opacity: 0.05;}
+    95%{background-image: url(bilder/lanta.jpg); opacity: 0;}
 }
 
 @keyframes ani-bangkok {
@@ -95,16 +95,16 @@ main{
     35%{background-image: url(bilder/bangkok.jpg); opacity: 0.55;}
     40%{background-image: url(bilder/bangkok.jpg); opacity: 0.5;}
     45%{background-image: url(bilder/bangkok.jpg); opacity: 0.5;}
-    50%{background-image: url(bilder/bangkok2.jpg); opacity: 0.5;}
-    55%{background-image: url(bilder/bangkok2.jpg); opacity: 0.55;}
-    60%{background-image: url(bilder/bangkok2.jpg); opacity: 0.6;}
-    65%{background-image: url(bilder/bangkok2.jpg); opacity: 0.65;}
-    70%{background-image: url(bilder/bangkok2.jpg); opacity: 0.7;}
-    75%{background-image: url(bilder/bangkok2.jpg); opacity: 0.75;}
-    80%{background-image: url(bilder/bangkok2.jpg); opacity: 0.8;}
-    85%{background-image: url(bilder/bangkok2.jpg); opacity: 0.85;}
-    90%{background-image: url(bilder/bangkok2.jpg); opacity: 0.9;}
-    95%{background-image: url(bilder/bangkok2.jpg); opacity: 0.95;}
+    50%{background-image: url(bilder/bangkok.jpg); opacity: 0.45;}
+    55%{background-image: url(bilder/bangkok.jpg); opacity: 0.4;}
+    60%{background-image: url(bilder/bangkok.jpg); opacity: 0.35;}
+    65%{background-image: url(bilder/bangkok.jpg); opacity: 0.3;}
+    70%{background-image: url(bilder/bangkok.jpg); opacity: 0.25;}
+    75%{background-image: url(bilder/bangkok.jpg); opacity: 0.2;}
+    80%{background-image: url(bilder/bangkok.jpg); opacity: 0.15;}
+    85%{background-image: url(bilder/bangkok.jpg); opacity: 0.1;}
+    90%{background-image: url(bilder/bangkok.jpg); opacity: 0.05;}
+    95%{background-image: url(bilder/bangkok.jpg); opacity: 0;}
 }
 @keyframes ani-phuket{
     0%{background-image: url(bilder/phuket.jpg); opacity: 0.9;}
@@ -117,16 +117,16 @@ main{
     35%{background-image: url(bilder/phuket.jpg); opacity: 0.55;}
     40%{background-image: url(bilder/phuket.jpg); opacity: 0.5;}
     45%{background-image: url(bilder/phuket.jpg); opacity: 0.5;}
-    50%{background-image: url(bilder/phuket2.jpg); opacity: 0.5;}
-    55%{background-image: url(bilder/phuket2.jpg); opacity: 0.55;}
-    60%{background-image: url(bilder/phuket2.jpg); opacity: 0.6;}
-    65%{background-image: url(bilder/phuket2.jpg); opacity: 0.65;}
-    70%{background-image: url(bilder/phuket2.jpg); opacity: 0.7;}
-    75%{background-image: url(bilder/phuket2.jpg); opacity: 0.75;}
-    80%{background-image: url(bilder/phuket2.jpg); opacity: 0.8;}
-    85%{background-image: url(bilder/phuket2.jpg); opacity: 0.85;}
-    90%{background-image: url(bilder/phuket2.jpg); opacity: 0.9;}
-    95%{background-image: url(bilder/phuket2.jpg); opacity: 0.95;}
+    50%{background-image: url(bilder/phuket.jpg); opacity: 0.45;}
+    55%{background-image: url(bilder/phuket.jpg); opacity: 0.4;}
+    60%{background-image: url(bilder/phuket.jpg); opacity: 0.35;}
+    65%{background-image: url(bilder/phuket.jpg); opacity: 0.3;}
+    70%{background-image: url(bilder/phuket.jpg); opacity: 0.25;}
+    75%{background-image: url(bilder/phuket.jpg); opacity: 0.2;}
+    80%{background-image: url(bilder/phuket.jpg); opacity: 0.15;}
+    85%{background-image: url(bilder/phuket.jpg); opacity: 0.1;}
+    90%{background-image: url(bilder/phuket.jpg); opacity: 0.05;}
+    95%{background-image: url(bilder/phuket.jpg); opacity: 0;}
 }
 
 .link-phi {
@@ -134,6 +134,8 @@ main{
     max-width: 50vw;
     max-height: 50vh;
     text-decoration: none;
+    background-image: url(bilder/phiphi2.jpg);
+    background-size: cover;
 }
 
 .link-lanta {
@@ -141,6 +143,8 @@ main{
     width: 50vw;
     height: 50vh;
     text-decoration: none;
+    background-image: url(bilder/lanta2.jpg);
+    background-size: cover;
 }
 
 .link-bangkok {
@@ -148,6 +152,8 @@ main{
     width: 50vw;
     height: 50vh;
     text-decoration: none;
+    background-image: url(bilder/bangkok2.jpg);
+    background-size: cover;
 }
 
 .link-phuket {
@@ -155,6 +161,8 @@ main{
     width: 50vw;
     height: 50vh;
     text-decoration: none;
+    background-image: url(bilder/phuket2.jpg);
+    background-size: cover;
 }
 
 .phi{
