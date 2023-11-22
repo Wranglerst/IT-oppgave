@@ -37,3 +37,11 @@ main{
     background-color: #126782;
 }
 
+.kalender{
+    display:grid;
+    grid-template-columns: auto  auto  auto  auto auto  auto  auto;
+}
+.kalenderdag{
+    display:flex;
+    justify-content: center;
+}
