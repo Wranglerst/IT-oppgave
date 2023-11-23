@@ -28,6 +28,17 @@ header{
 main{
     height:100vh;
     width:100vw;
+    background-image: url(media/bakgrunn.gif);
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+}
+
+.over{
+    align-self: center;
+    font-weight: bold;
+    color:white;
+    font-size:2.5rem;
 }
 footer{
     background-color: lightgray;
