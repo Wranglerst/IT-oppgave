@@ -27,6 +27,12 @@ header{
     font-size: 2rem;
     color: white;
     font-weight: bold;
+    display:flex;
+    justify-content: center;
+}
+.image{
+    align-items: center;
+    width:3rem;
 }
 
 main{

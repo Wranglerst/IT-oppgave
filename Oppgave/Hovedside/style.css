@@ -24,11 +24,18 @@ header{
     font-size: 2rem;
     color: white;
     font-weight: bold;
+    display:flex;
+    justify-content: center;
 }
+.image{
+    align-items: center;
+    width:3rem;
+}
+
 main{
     height:100vh;
     width:100vw;
-    background-image: url(media/bakgrunn.gif);
+    background-image: url(media/thai.jpg);
     background-size: cover;
     display:flex;
     justify-content: center;
