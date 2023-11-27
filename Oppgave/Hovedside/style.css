@@ -6,7 +6,7 @@ body{
 header{
     width:100vw;
     display:flex;
-    justify-content: left;
+    justify-content: space-evenly;
     background-color: #023047;
 }
 .header-element{
