@@ -34,10 +34,36 @@ main{
     width:100vw;
     background-color: #126782;
     background-size:contain;
-    display:flex;
-    justify-content: center;
+    display:grid;
 }
 
+.kunde-info{
+    color:white;
+    width:50vw;
+    grid-area:1/1;
+    display:grid;
+    grid-template-rows: auto auto auto auto auto;
+}   
+
+form button{
+    grid-area:3/1/span 1/span 2;
+    background-color: #8ECAE6;
+    border: #8ECAE6;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-size:2rem;
+}
+
+button:focus{
+    background-color: #126782;
+
+}
+
+.info{
+    width: 50vw;
+    grid-area: 1/2;
+}
 .over{
     align-self: center;
     font-weight: bold;
@@ -48,6 +74,38 @@ main{
     align-items: center;
     width:3rem;
 }
+
+.overskrift{
+    align-self: center;
+    text-align: center;
+    grid-area:1/1/ span 1/ span 2;
+    font-size:1.7rem;
+}
+
+.labels{
+    grid-area:2/1;
+    display:grid;
+    grid-template-columns: auto;
+}
+
+.inputs{
+    grid-area: 2/2;
+    display:grid;
+    grid-template-columns: auto;
+}
+
+div input{
+    margin:1rem;
+    height: 2rem;
+    align-self: center;
+}
+
+div label{
+    text-align: center;
+    align-self: center;
+    font-size: 2rem;
+}
+
 footer{
     width:100vw;
     background-color: lightgray;

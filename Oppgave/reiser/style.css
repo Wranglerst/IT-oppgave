@@ -359,3 +359,11 @@ div > h1{
     align-self:end;
     margin-left:1rem;
 }
+
+footer{
+    width:100vw;
+    background-color: lightgray;
+    color:black;
+    display:flex;
+    justify-content: center;
+}

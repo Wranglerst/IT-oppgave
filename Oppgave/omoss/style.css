@@ -42,3 +42,11 @@ main{
     background-color: #126782;
 }
 
+footer{
+    width:100vw;
+    background-color: lightgray;
+    color:black;
+    display:flex;
+    justify-content: center;
+}
+

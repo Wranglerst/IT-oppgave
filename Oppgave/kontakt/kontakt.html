@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hovedside</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/x-icon" href="media/REISEBYRA.PNG">
+    <link rel="icon" type="image/x-icon" href="../Hovedside/media/REISEBYRA.PNG">
 </head>
 
 <body>
@@ -31,18 +31,26 @@
         </div>
         <div class="header-element"><a class="header-link" href="../kontakt/kontakt.html">Kontakt Oss</a></div>    </header>
     <main>
-        <div class="kunde-info">
-        <form>
-            <label for="name">
-                Fullt navn:
-            </label>
-            <input type="text" id="name">
-            <label for="mail"> E-mail:</label>
-            <input type="text" id ="mail">
-            <label for="nr"></label>
-            <input type="number" id="nr">
+
+        <form class="kunde-info">
+            <div class="overskrift">Vennligst fyll inn kontakt informasjonen din under så vil vi kontakte deg så snart som vi kan. </div>
+            <div class = "labels">
+                <label for="name">
+                    Fullt navn:
+                </label>
+                <label for="mail">E-mail:</label>
+                <label for="nr">Telefonnummer</label>
+                <label for="">Adresse</label>
+            </div>
+            <div class = "inputs">
+                <input type="text" id="name">
+                <input type="text" id ="mail">
+                <input type="number" id="nr">
+                <input type="text">  
+            </div>
+            <button>Send inn informasjon</button>
         </form>
-        </div>
+        <div class ="info"></div>
     </main>
     <footer>
         <div class="footer">
