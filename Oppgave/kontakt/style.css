@@ -114,3 +114,21 @@ footer{
     justify-content: center;
 }
 
+.info{
+    grid-area:1/2;
+    display:grid;
+    grid-template-rows: auto auto;
+    color:white;
+}
+
+.kontakt-overskrift{
+    grid-area: 1/1/span 1/span 2;
+    text-align: center;
+    font-size:1.7rem;
+}
+
+.kontaktinfo{
+    display:grid;
+    color:white;
+
+}
