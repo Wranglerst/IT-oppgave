@@ -37,6 +37,7 @@ header{
 
 main{
     width:100vw;
+    height: 100vw;
     display: grid;
     grid-template-columns: auto / auto;
     margin:0;
@@ -51,3 +52,16 @@ footer{
     justify-content: center;
 }
 
+.background {
+    background-image: url(Bangkok-neighbor.jpg);
+    width: 100vw;
+    height: 100vw ;
+}
+
+.tekst{
+    background-color: #023047e7;
+}
+.omp {
+    width: 60vw;
+    color: white;
+}
