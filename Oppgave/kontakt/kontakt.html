@@ -7,12 +7,14 @@
     <title>Kontakt Oss</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="../Hovedside/media/REISEBYRA.PNG">
+    <script src="script.js"></script>
 </head>
 
 <body>
     <header>
         <div class="header-element">
-            <a href="../Hovedside/index.html" class="header-link"><img class="image" src="../Hovedside/media/REISEBYRA.PNG"></a>
+            <a href="../Hovedside/index.html" class="header-link"><img class="image"
+                    src="../Hovedside/media/REISEBYRA.PNG"></a>
         </div>
         <div class="header-element">
             <a href="../reiser/reiser.html" class="header-link">Reisemål</a>
@@ -29,45 +31,80 @@
         <div class="header-element">
             <a href="../omoss/omoss.html" class="header-link">Om oss</a>
         </div>
-        <div class="header-element"><a class="header-link" href="../kontakt/kontakt.html">Kontakt Oss</a></div>    </header>
+        <div class="header-element"><a class="header-link" href="../kontakt/kontakt.html">Kontakt Oss</a></div>
+    </header>
     <main>
         <form class="kunde-info">
-            <div class="overskrift">Vennligst fyll inn kontakt informasjonen din under så vil vi kontakte deg så snart som vi kan. </div>
-            <div class = "labels">
+            <div class="overskrift">Vennligst fyll inn kontakt informasjonen din under så vil vi kontakte deg så snart
+                som vi kan. </div>
+            <div class="labels">
                 <label for="name">
                     Fullt navn:
                 </label>
-                <label for="mail">E-mail:</label>
+                <label for="email">E-mail:</label>
                 <label for="nr">Telefonnummer:</label>
-                <label for="">Adresse:</label>
+                <label for="adresse">Adresse:</label>
+                <label for="emne">Emne:</label>
             </div>
-            <div class = "inputs">
+            <div class="inputs">
                 <input type="text" id="name">
-                <input type="text" id ="mail">
+                <input type="email" id="email">
                 <input type="number" id="nr">
-                <input type="text">  
+                <input type="text" id="adresse">
+                <select id="emne">
+                    <option value="ubesvart">Vennligst velg</option>
+                    <option value="endring">Endring av reiser</option>
+                    <option value="refusjon">Refusjon</option>
+                    <option value="kansellering">Kansellering</option>
+                    <option value="ombooking">Ombooking</option>
+                    <option value="andre">Andre</option>
+                </select>
             </div>
+            <div class="ekstra">
+                <label id="tillegg">
+                    Tilleggsinformasjon:
+                </label>
+                <input type="text" id="ekstra">
+            </div>
+
             <button>Send inn informasjon</button>
         </form>
         <form class="info">
-            <div class = "kontakt-overskrift">
-                <br>Her er vår kontakt informasjon for henvendelser:
+            <div class="kontakt-overskrift">
+                Her er vår kontakt informasjon for henvendelser:
             </div>
-            <div class = "kontaktinfo">
-                <ul class ="kontakt1">
+            <div class="kontaktinfo">
+                <ul class="kontakt1">
                     <li>
-                        Email: 
+                        <h3>Telefon</h3>
                     </li>
                     <li>
-                        Thailand@AAreiser.no
+                        <a onclick="copy()" href="javascript:void(0);">id = "tlfnr">+47 918 27 643</a>
                     </li>
+                    <li>
+                        <ul>
+                            <li>
+                                Åpningstider:
+                            </li>
+                            <li>
+                                Mandag-fredag: kl. 09.00-17.00
+                            </li>
+                            <li>
+                                Lørdag: kl. 11.00-15.00
+                            </li>
+                            <li>
+                                Søndag: Stengt
+                            </li>
+                        </ul>
+                    </li>
+                    
                 </ul>
                 <ul class="kontakt2">
                     <li>
-                        Telefonnummer (åpen 08-17)
+                        <h3>Email:</h3>
                     </li>
                     <li>
-                        +47 918 27 64 
+                        Thailand@AAreiser.no
                     </li>
                 </ul>
             </div>
