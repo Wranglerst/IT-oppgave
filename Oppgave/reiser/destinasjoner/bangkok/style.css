@@ -59,7 +59,8 @@ footer{
 }
 
 .tekst{
-    background-color: #023047e7;
+    
+    background: linear-gradient(90deg,#023047,#ffffff00);
 }
 .omp {
     width: 60vw;
