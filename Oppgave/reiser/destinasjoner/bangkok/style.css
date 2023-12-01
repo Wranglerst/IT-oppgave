@@ -9,8 +9,9 @@ main{
 
 .background {
     background-image: url(bilder/Bangkok-neighbor.jpg);
-    width: 100vw;
-    height: 100vw ;
+    width: 100%;
+    -webkit-background-composite: ;
+
 }
 
 .tekst{
