@@ -18,3 +18,6 @@ main{
     background-position: center;
     background-size: cover;
 }
+main {
+    height: 150rem;
+}
