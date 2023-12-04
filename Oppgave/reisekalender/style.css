@@ -3,18 +3,11 @@ main{
     display: grid;
     grid-template-columns: auto / auto;
     margin:0;
-    background-color: #126782;
+    background-color: #2A9D8F;
+    height:100vh;
 }
 
-.kalender{
-    display:grid;
-    grid-template-columns: auto  auto  auto  auto auto  auto  auto;
-}
-.kalenderdag{
-    display:flex;
-    justify-content: center;
-    outline:black solid 0.06rem;
-    margin:0.12rem;
-    padding:0.12rem;
-    border-radius: 0.9rem;
+.reise-1{
+    background-color: white;
+    margin:1rem;
 }

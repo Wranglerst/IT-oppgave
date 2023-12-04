@@ -2,6 +2,10 @@
 
 
 
+reisekalender:
+bilde-1
+https://www.pexels.com/nb-no/bilde/pagode-arkitektur-andelighet-kloster-3393546/
+
 om oss:
 bilde-1
 https://www.pexels.com/nb-no/bilde/stor-statue-ansikt-skulptur-937465/
