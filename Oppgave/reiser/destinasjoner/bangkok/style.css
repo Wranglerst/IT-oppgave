@@ -6,9 +6,21 @@
 
 .tekst{
     color: white;
+    font-size: 20px;
     background: linear-gradient(90deg,#023047,#ffffff00);
 }
 .omp {
     width: 60vw;
     color: white;
+}
+main {
+    height: fit-content;
+    margin: 0%;
+    
+}
+#avreise {
+    color: white;
+    background: linear-gradient(90deg,
+        #023047,
+        #ffffff00);
 }
