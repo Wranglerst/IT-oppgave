@@ -1,11 +1,11 @@
 .background {
-    background-image: url(bilder\bilde og lenke);
+    background-image: url(../bangkok/bilder/bilde\ og\ lenke/bangkok.jpg);
     width: 100%;
     
 }
 
 .tekst{
-    
+    color: white;
     background: linear-gradient(90deg,#023047,#ffffff00);
 }
 .omp {
