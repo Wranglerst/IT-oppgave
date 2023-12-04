@@ -149,12 +149,11 @@ div label{
     grid-area:2/1;
     display:grid;
     color:white;
-    font-size:1.7rem;
+    font-size:1.6rem;
 }
 
 .kontaktinfo ul{
-    list-style-type: none; 
-
+    list-style-type: none;
 }
 
 ul li{
