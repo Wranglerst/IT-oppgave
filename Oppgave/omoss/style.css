@@ -11,9 +11,15 @@ main{
 }
 
 main div{
-    font-size:1.5rem;
+    font-size:1.6rem;
     height:50vh;
-    margin:1rem;
+    margin-left:1rem;
+    margin-right: 1rem;
+    margin-top:0.5rem;
+}
+
+h1{
+    font-size:5rem;
 }
 
 .overskrift{
@@ -24,10 +30,13 @@ main div{
 
 .historie{
     grid-area: 2/2/span 1 /span 2;
+    width:55vw;
 }
 
 .bilde-1{
-
+    background-image: url(bilder/pexels-suraphat-nueaon-937465.jpg);
+    background-size:cover;
+    border-radius: 0.5rem;
 }
 
 .oppgave{
@@ -41,14 +50,20 @@ main div{
     background-image: url(bilder/thai.png);
     grid-area:3/2/span 1/ span 2;
     background-size:cover;
+    width:55vw;
+    border-radius: 0.5rem;
 }
 
 .velge{
     grid-area: 4/2/span 1/ span 2;
+    width:55vw;
 }
 
 .bilde-3{
-
+    background-image:url(bilder/pexels-marily-torres-776615.jpg);
+    background-size: cover;
+    border-radius: 0.5rem;
+    margin-top:3rem;
 }
 
 .kontakt{
@@ -66,3 +81,8 @@ main div{
     width:60vw;
 }
 
+
+#tagline{
+    font-size:2rem;
+    text-align: center;
+}
