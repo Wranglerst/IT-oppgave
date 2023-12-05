@@ -41,7 +41,7 @@ main{
 }
 
 .bilde-4{
-    background-image: url(bilder/pexels-nick-wehrli-3393546.jpg);
+    background-image: url(bilder/phuket.jpg);
     background-position: center;
     background-size:cover;
     width:20vw;
@@ -77,7 +77,7 @@ main{
     align-items: end;
 }
 
-.bestill{
+.program{
     text-align: center;
     font-size:2rem;
     padding:1rem;
@@ -86,4 +86,6 @@ main{
     width:fit-content;
     margin:1rem;
     border:black solid 0.06rem;
+    text-decoration: none;
+    color:black;
 }
