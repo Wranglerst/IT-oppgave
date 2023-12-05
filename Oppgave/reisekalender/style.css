@@ -17,7 +17,7 @@ main{
 }
 
 .bilde-1{
-    background-image: url(bilder/pexels-nick-wehrli-3393546.jpg);
+    background-image: url(bilder/bangkok.jpg);
     background-position: center;
     background-size:cover;
     width:20vw;
@@ -25,7 +25,7 @@ main{
 }
 
 .bilde-2{
-    background-image: url(bilder/pexels-nick-wehrli-3393546.jpg);
+    background-image: url(bilder/koh-lanta.jpg);
     background-position: center;
     background-size:cover;
     width:20vw;
@@ -33,7 +33,7 @@ main{
 }
 
 .bilde-3{
-    background-image: url(bilder/pexels-nick-wehrli-3393546.jpg);
+    background-image: url(bilder/phi-phi.jpg);
     background-position: center;
     background-size:cover;
     width:20vw;
@@ -81,7 +81,7 @@ main{
     text-align: center;
     font-size:2rem;
     padding:1rem;
-    background-color: orange;
+    background-color: #E9C46A;
     height:fit-content;
     width:fit-content;
     margin:1rem;
