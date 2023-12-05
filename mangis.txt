@@ -1,6 +1,7 @@
 Oppgavefordeling: 
 reisenettsider - Eivind. 
 Hovedside - Eivind 
-om oss - Storm
-kontkat oss - Storm
-reisetyper - Storm
+om oss - Storm ferdi
+kontkat oss - Storm ferdi
+reisetyper - Storm 
+reisekalender - storm ferdi 
