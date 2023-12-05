@@ -4,37 +4,88 @@ main{
     grid-template-columns: auto / auto;
     margin:0;
     background-color: #2A9D8F;
-    height:100vh;
+    height:fit-content;
 }
 
-
-
-.reise-1{
+.reise{
     background-color: white;
     margin:1rem;
     width:97vw;
     display:grid;
+    height:40vh;
+    grid-template-columns: 10vw 10vw 38.5vw 38.5vw;
 }
 
 .bilde-1{
-    background-image: url(bilder/pexels-nick-wehrli-3393546.jpg);
+    background-image: url(bilder/bangkok.jpg);
+    background-position: center;
     background-size:cover;
-    height:auto;
+    width:20vw;
     grid-area: 1/1/span 2/span 2;
 }
 
-.overskrift-1{
+.bilde-2{
+    background-image: url(bilder/koh-lanta.jpg);
+    background-position: center;
+    background-size:cover;
+    width:20vw;
+    grid-area: 1/1/span 2/span 2;
+}
+
+.bilde-3{
+    background-image: url(bilder/phi-phi.jpg);
+    background-position: center;
+    background-size:cover;
+    width:20vw;
+    grid-area: 1/1/span 2/span 2;
+}
+
+.bilde-4{
+    background-image: url(bilder/phuket.jpg);
+    background-position: center;
+    background-size:cover;
+    width:20vw;
+    grid-area: 1/1/span 2/span 2;
+}
+
+.overskrift{
     grid-area:1/3;
+    margin-left:1rem;
 }
 
-.tekst-1{
+.overskrift p{
+    font-size:1.4rem;
+}
+
+.tekst{
     grid-area:2/3;
+    font-size:1.4rem;
+    margin-left:1rem;
 }
 
-.pris-1{
+.pris{
     grid-area: 1/4;
+    text-align: right;
+    font-size:1.5rem;
+    margin:2rem;
 }
 
-.bestill-1{
+.knapp{
     grid-area:2/4;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.program{
+    text-align: center;
+    font-size:2rem;
+    padding:1rem;
+    background-color: #E9C46A;
+    height:fit-content;
+    width:fit-content;
+    margin:1rem;
+    border:black solid 0.06rem;
+    text-decoration: none;
+    color:black;
 }
