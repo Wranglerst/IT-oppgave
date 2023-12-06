@@ -8,15 +8,18 @@ main{
 }
 
 .reise{
+    border-radius: 0.5rem;
     background-color: white;
     margin:1rem;
     width:97vw;
     display:grid;
     height:40vh;
     grid-template-columns: 10vw 10vw 38.5vw 38.5vw;
+    grid-template-rows: 15vh 25vh;
 }
 
 .bilde-1{
+    border-radius: 0.5rem 0 0 0.5rem;
     background-image: url(bilder/bangkok.jpg);
     background-position: center;
     background-size:cover;
@@ -25,14 +28,17 @@ main{
 }
 
 .bilde-2{
+    border-radius: 0.5rem 0 0 0.5rem;
     background-image: url(bilder/koh-lanta.jpg);
     background-position: center;
     background-size:cover;
     width:20vw;
+    height: 40vh;
     grid-area: 1/1/span 2/span 2;
 }
 
 .bilde-3{
+    border-radius: 0.5rem 0 0 0.5rem;
     background-image: url(bilder/phi-phi.jpg);
     background-position: center;
     background-size:cover;
@@ -41,6 +47,7 @@ main{
 }
 
 .bilde-4{
+    border-radius: 0.5rem 0 0 0.5rem;
     background-image: url(bilder/phuket.jpg);
     background-position: center;
     background-size:cover;
@@ -76,6 +83,7 @@ main{
     justify-content: end;
     align-items: end;
 }
+
 
 .program{
     text-align: center;
