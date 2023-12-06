@@ -89,3 +89,30 @@ main{
     text-decoration: none;
     color:black;
 }
+
+.utsolgt{
+    width:1rem;
+    height:1rem;
+    background-color: red;
+    display: inline-block;
+    border-radius: 50%;
+    border:black solid 0.06rem;
+}
+
+.lite-ledig{
+    width:1rem;
+    height:1rem;
+    background-color: yellow;
+    display: inline-block;
+    border-radius: 50%;
+    border:black solid 0.06rem;
+}
+
+.ledig{
+    width:1rem;
+    height:1rem;
+    background-color: greenyellow;
+    display: inline-block;
+    border-radius: 50%;
+    border:black solid 0.06rem;
+}
