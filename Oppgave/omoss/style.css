@@ -36,15 +36,13 @@ h1{
 .bilde-1{
     background-image: url(bilder/pexels-suraphat-nueaon-937465.jpg);
     background-size:cover;
+    background-position: center;
     border-radius: 0.5rem;
 }
 
 .oppgave{
     grid-area:3/1/span 1/ span 1;
 }
-
-
-
 
 .bilde-2{
     background-image: url(bilder/thai.png);
