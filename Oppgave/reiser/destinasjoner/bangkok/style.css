@@ -1,4 +1,4 @@
-.background {
+#background {
     background-image: url(../bangkok/bilder/bilde\ og\ lenke/bangkok.jpg);
     width: 100%;
     
@@ -15,11 +15,10 @@
     width: 60vw;
     color: white;
 }
-main {
-    height: fit-content;
+main { 
+    height: 90rem;
     margin: 0;
-    width:98.9vw;
-    
+    width:98.9vw;  
 }
 #avreise {
     color: white;
@@ -29,4 +28,19 @@ main {
 }
 footer {
     margin: 0;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
 }
