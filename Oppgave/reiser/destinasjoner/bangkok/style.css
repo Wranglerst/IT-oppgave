@@ -16,14 +16,15 @@ main {
         grid-gap: 10px;
 }
 
-
+.p {
+    font-size: 1.2rem;
+}
 
 .bondjames {
-    background-color: rgba(82, 81, 81, 0.495);
+    background-color: rgba(0, 0, 0, 0.641);
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 1;
-    grid-row-end: 3;
 }
 
 .innledning {

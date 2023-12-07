@@ -1,7 +1,47 @@
-main{
-    width:98.9vw;
-    display: grid;
-    grid-template-columns: auto / auto;
+.tekst{
     margin:0;
-    background-color: #126782;
+    color: white;
+    font-size: 20px;
+    background: linear-gradient(90deg,#023047,#ffffff00);
+}
+
+main { 
+    height: 70rem;
+    margin: 0;
+    width:98.9vw;  
+    background-image: url(../lanta/Bilder/lanta.jpg);
+    display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr ;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        grid-gap: 10px;
+}
+
+.p {
+    font-size: 1.2rem;
+}
+
+
+.bondjames {
+    background-color: rgba(44, 44, 44, 0.83);
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+}
+
+.innledning {
+    background-color: rgba(255, 255, 255, 0);  
+    color: white; 
+}
+
+.plan {
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+
+.avreise {
+    background-color: rgba(255, 255, 255, 0);
+
+}
+footer {
+    margin: 0;
 }
