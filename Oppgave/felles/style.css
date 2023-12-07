@@ -8,7 +8,7 @@ body{
 }
 
 header{
-    width: 98.9vw;
+    width:98.9vw; /* 98.9 for at man ikke skal få horisontal scrollbar*/ 
     display:flex;
     justify-content: space-evenly;
     background-color: #023047;
