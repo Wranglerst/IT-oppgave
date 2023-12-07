@@ -1,46 +1,45 @@
-#background {
-    background-image: url(../bangkok/bilder/bilde\ og\ lenke/bangkok.jpg);
-    width: 100%;
-    
-}
-
-
 .tekst{
     margin:0;
     color: white;
     font-size: 20px;
     background: linear-gradient(90deg,#023047,#ffffff00);
 }
-.omp {
-    width: 60vw;
-    color: white;
-}
+
 main { 
     height: 90rem;
     margin: 0;
     width:98.9vw;  
+    background-image: url(../bangkok/bilder/bilde\ og\ lenke/bangkok.jpg);
+    display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr ;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        grid-gap: 10px;
 }
-#avreise {
+
+
+
+.bondjames {
+    background-color: rgba(82, 81, 81, 0.495);
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.innledning {
+    background-color: rgba(255, 255, 255, 0);  
+    color: white; 
+}
+
+.plan {
+    background-color: rgba(255, 255, 255, 0);
     color: white;
-    background: linear-gradient(90deg,
-        #023047,
-        #ffffff00);
+}
+
+.avreise {
+    background-color: rgba(255, 255, 255, 0);
+
 }
 footer {
     margin: 0;
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    background-color: #2196F3;
-    padding: 10px;
-}
-
-.grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
 }
