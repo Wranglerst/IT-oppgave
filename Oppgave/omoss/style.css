@@ -76,7 +76,9 @@ h1{
     align-items:center;
     font-size:3rem;
     font-weight:bold;
-    width:60vw;
+    background-image: url(bilder/logo.png);
+    background-size: cover;
+    background-position: center;
 }
 
 
