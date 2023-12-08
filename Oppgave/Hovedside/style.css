@@ -23,6 +23,7 @@ main{
     background-color: whitesmoke;
     grid-column: 1/6;
     grid-row: 5/11;
+    border: 2px solid yellowgreen;
     
 }
 
@@ -56,6 +57,8 @@ main{
     display: flex;
     justify-content: end;
     align-items: end;  
+    grid-column: 5/7;
+     grid-row: 2;
 }
 
 .program {
@@ -69,9 +72,4 @@ main{
     border: black solid 0.06rem;
     text-decoration: none;
     color: black;
-}
-
-.lenke {
-    grid-column: 1/4;
-    grid-row: 3;
 }
