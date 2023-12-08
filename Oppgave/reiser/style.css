@@ -1,7 +1,7 @@
 main{
     width:98.9vw;
     display: grid;
-    grid-template-columns: auto / auto;
+    grid-template-columns: 49.45vw / 49.45vw;
     margin:0;
     background-color: #126782;
 }
@@ -28,6 +28,7 @@ main{
     85%{background-image: url(bilder/phiphi.jpg); opacity: 0.1;}
     90%{background-image: url(bilder/phiphi.jpg); opacity: 0.05;}
     95%{background-image: url(bilder/phiphi.jpg); opacity: 0;}
+    100%{background-image: url(bilder/phiphi.jpg); opacity: 0;}
 }
 
 
@@ -52,6 +53,7 @@ main{
     85%{background-image: url(bilder/lanta.jpg); opacity: 0.1;}
     90%{background-image: url(bilder/lanta.jpg); opacity: 0.05;}
     95%{background-image: url(bilder/lanta.jpg); opacity: 0;}
+    100%{background-image: url(bilder/lanta.jpg); opacity: 0;}
 }
 
 @keyframes ani-bangkok {
@@ -75,6 +77,7 @@ main{
     85%{background-image: url(bilder/bangkok.jpg); opacity: 0.1;}
     90%{background-image: url(bilder/bangkok.jpg); opacity: 0.05;}
     95%{background-image: url(bilder/bangkok.jpg); opacity: 0;}
+    100%{background-image: url(bilder/bangkok.jpg); opacity: 0;}
 }
 @keyframes ani-phuket{
     0%{background-image: url(bilder/phuket.jpg); opacity: 0.9;}
@@ -97,6 +100,7 @@ main{
     85%{background-image: url(bilder/phuket.jpg); opacity: 0.1;}
     90%{background-image: url(bilder/phuket.jpg); opacity: 0.05;}
     95%{background-image: url(bilder/phuket.jpg); opacity: 0;}
+    100%{background-image: url(bilder/phuket.jpg); opacity: 0;}
 }
 
 @keyframes ani-anti-phiphi {
@@ -194,8 +198,9 @@ main{
 
 .link-phi {
     grid-area: 1/1;
-    max-width: 50vw;
     max-height: 50vh;
+    width:49.45vw;
+    background-position: center;
     text-decoration: none;
     background-image: url(bilder/phiphi2.jpg);
     background-size: cover;
@@ -203,9 +208,10 @@ main{
 }
 
 .link-lanta {
+    background-position: center;
     grid-area: 1/2;
-    width: 50vw;
     height: 50vh;
+    width:49.45vw;
     text-decoration: none;
     background-image: url(bilder/lanta2.jpg);
     background-size: cover;
@@ -213,9 +219,10 @@ main{
 }
 
 .link-bangkok {
+    background-position: center;
     grid-area: 2/1;
-    width: 50vw;
     height: 50vh;
+    width:49.45vw;
     text-decoration: none;
     background-image: url(bilder/bangkok2.jpg);
     background-size: cover;
@@ -223,9 +230,10 @@ main{
 }
 
 .link-phuket {
+    background-position: center;
     grid-area: 2/2;
-    width: 50vw;
     height: 50vh;
+    width:49.45vw;
     text-decoration: none;
     background-image: url(bilder/phuket2.jpg);
     background-size: cover;
@@ -234,12 +242,13 @@ main{
 
 
 .phi{
+    background-position: center;
     position:absolute;
     margin:0;
     background-image: url(bilder/phiphi.jpg);
     color:white;
-    width: 50vw;
     height: 50vh;
+    width:49.45vw;
     background-size: cover;
     z-index: 50;
     animation-name:ani-anti-phiphi;
@@ -255,6 +264,7 @@ main{
 
 
 .phi:hover{
+    background-position: center;
     background-image: url(bilder/phiphi2.jpg);
     background-size: cover;
     animation:ani-phiphi;
@@ -262,56 +272,61 @@ main{
 }
 
 .lanta{
+    background-position: center;
     position:absolute;
     margin:0;
     background-image: url(bilder/lanta.jpg);
     color:white;
-    width: 50vw;
     height: 50vh;
     background-size: cover;
     z-index: 50;
+    width:49.45vw;
     animation-name:ani-anti-lanta;
     animation-duration:0.6s;
 }
 .lanta:hover{
+    background-position: center;
     background-image: url(bilder/lanta2.jpg);
     background-size: cover;
     animation-name:ani-lanta;
     animation-duration: 0.6s;
-
 }
 
 .bangkok{
+    background-position: center;
     position:absolute;
     margin:0;
     background-image: url(bilder/bangkok.jpg);
     color:white;
-    width: 50vw;
     height: 50vh;
+    width:49.45vw;
     background-size: cover;
     z-index: 50;
     animation-name:ani-anti-bangkok;
     animation-duration:0.6s;
 }
 .bangkok:hover{
+    background-position: center;
     background-image: url(bilder/bangkok2.jpg);
     background-size: cover;
     animation-name:ani-bangkok;
     animation-duration: 0.6s;
 }
 .phuket{
+    background-position: center;
     position:absolute;
     margin:0;
     background-image: url(bilder/phuket.jpg);
     color:white;
-    width: 50vw;
     height: 50vh;
+    width:49.45vw;
     background-size: cover;
     z-index: 50;
     animation-name:ani-anti-phuket;
     animation-duration:0.6s;
 }
 .phuket:hover{
+    background-position: center;
     background-image: url(bilder/phuket2.jpg);
     background-size: cover;
     animation-name:ani-phuket;

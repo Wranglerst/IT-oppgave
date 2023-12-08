@@ -3,7 +3,7 @@ main{
     display: grid;
     grid-template-columns: auto / auto;
     margin:0;
-    background-color: #2A9D8F;
+    background:linear-gradient(#2A9D8F,#126782);
     height:fit-content;
 }
 
@@ -13,9 +13,8 @@ main{
     margin:1rem;
     width:97vw;
     display:grid;
-    height:40vh;
     grid-template-columns: 10vw 10vw 38.5vw 38.5vw;
-    grid-template-rows: 15vh 25vh;
+    grid-template-rows: 15vh auto;
 }
 
 .bilde-1{
@@ -33,7 +32,6 @@ main{
     background-position: center;
     background-size:cover;
     width:20vw;
-    height: 40vh;
     grid-area: 1/1/span 2/span 2;
 }
 
