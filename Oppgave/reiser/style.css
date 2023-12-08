@@ -1,7 +1,7 @@
 main{
-    width:98.9vw;
+    width:100vw;
     display: grid;
-    grid-template-columns: 49.45vw / 49.45vw;
+    grid-template-columns: 50vw/ 50vw;
     margin:0;
     background-color: #126782;
 }
@@ -199,7 +199,7 @@ main{
 .link-phi {
     grid-area: 1/1;
     max-height: 50vh;
-    width:49.45vw;
+    width:50vw;
     background-position: center;
     text-decoration: none;
     background-image: url(bilder/phiphi2.jpg);
@@ -211,7 +211,7 @@ main{
     background-position: center;
     grid-area: 1/2;
     height: 50vh;
-    width:49.45vw;
+    width:50vw;
     text-decoration: none;
     background-image: url(bilder/lanta2.jpg);
     background-size: cover;
@@ -222,7 +222,7 @@ main{
     background-position: center;
     grid-area: 2/1;
     height: 50vh;
-    width:49.45vw;
+    width:50vw;
     text-decoration: none;
     background-image: url(bilder/bangkok2.jpg);
     background-size: cover;
@@ -233,7 +233,7 @@ main{
     background-position: center;
     grid-area: 2/2;
     height: 50vh;
-    width:49.45vw;
+    width:50vw;
     text-decoration: none;
     background-image: url(bilder/phuket2.jpg);
     background-size: cover;
@@ -248,7 +248,7 @@ main{
     background-image: url(bilder/phiphi.jpg);
     color:white;
     height: 50vh;
-    width:49.45vw;
+    width:50vw;
     background-size: cover;
     z-index: 50;
     animation-name:ani-anti-phiphi;
@@ -256,7 +256,7 @@ main{
 }
 .reisetekst{
     z-index: 100;
-    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-shadow: -0.06rem -0.06rem 0 #000, 0.06rem -0.06rem 0 #000, -0.06rem 0.06rem 0 #000, 0.06rem 0.06rem 0 #000;
     color:white;
     align-self:end;
     padding-left: 1rem;
@@ -280,7 +280,7 @@ main{
     height: 50vh;
     background-size: cover;
     z-index: 50;
-    width:49.45vw;
+    width:50vw;
     animation-name:ani-anti-lanta;
     animation-duration:0.6s;
 }
@@ -299,14 +299,14 @@ main{
     background-image: url(bilder/bangkok.jpg);
     color:white;
     height: 50vh;
-    width:49.45vw;
+    width:50vw;
     background-size: cover;
     z-index: 50;
     animation-name:ani-anti-bangkok;
     animation-duration:0.6s;
 }
 .bangkok:hover{
-    background-position: center;
+
     background-image: url(bilder/bangkok2.jpg);
     background-size: cover;
     animation-name:ani-bangkok;
@@ -319,7 +319,7 @@ main{
     background-image: url(bilder/phuket.jpg);
     color:white;
     height: 50vh;
-    width:49.45vw;
+    width:50vw;
     background-size: cover;
     z-index: 50;
     animation-name:ani-anti-phuket;

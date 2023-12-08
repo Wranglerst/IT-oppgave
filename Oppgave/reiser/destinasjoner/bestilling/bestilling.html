@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="no">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bestilling</title>
+    <link rel="stylesheet" href="../../../felles/style.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="../../../Hovedside/media/REISEBYRA.PNG">
+</head>
+
+<body>
+    <header>
+        <div class="header-element">
+            <a href="../../../Hovedside/index.html" class="header-link"><img class="image"
+                    src="../../../Hovedside/media/REISEBYRA.PNG"></a>
+        </div>
+        <div class="header-element">
+            <a href="../../reiser.html" class="header-link">Reisemål</a>
+        </div>
+        <div class="header-element">
+            <a href="../../../inspirasjon/inspirasjon.html" class="header-link">Inspirasjon</a>
+        </div>
+        <div class="header-element">
+            <a class="header-link" href="../../../reisetyper/reisetyper.html">Reisetyper</a>
+        </div>
+        <div class="header-element">
+            <a href="../../../reisekalender/reisekalender.html" class="header-link">Reisekalender</a>
+        </div>
+        <div class="header-element">
+            <a href="../../../omoss/omoss.html" class="header-link">Om oss</a>
+        </div>
+        <div class="header-element"><a class="header-link" href="../../../kontakt/kontakt.html">Kontakt Oss</a></div>
+    </header>
+    <main>
+        <form class="kunde-info">
+            <div class="overskrift">Vennligst fyll ut informasjonen din i feltene under så vil vi kontakte deg så du kan få skreddersydd din ferie til det du ønsker</div>
+            <div class="labels">
+                <label for="first-name">
+                    Fornavn:
+                </label>
+                <label for="last-name">Etternavn:</label>
+                <label for="email">E-mail:</label>
+                <label for="nr">Telefonnummer:</label>
+                <label for="adresse">Adresse:</label>
+                <label for="reise">Reise:</label>
+            </div>
+            <div class="inputs">
+                <input type="text" id="first-name">
+                <input type="text" id="last-name">
+                <input type="email" id="email">
+                <input type="number" id="nr">
+                <input type="text" id="adresse">
+                <select id="reise">
+                    <option value="ubesvart">Vennligst Velg Den Turen Du Ønsker</option>
+                    <option value="koh-lanta">Koh Lanta</option>
+                    <option value="phuket">Phuket</option>
+                    <option value="phi-phi">Phi Phi</option>
+                    <option value="bangkok">Bangkok</option>
+                </select>
+            </div>
+            <div class="ekstra">
+                <label id="tillegg">
+                    Spesielle Ønsker:
+                </label>
+                <input type="text" id="ekstra">
+            </div>
+            <a class="buttontag" href="bekreftelse/bekreftelse.html">Send inn informasjon</a>
+            <!--<button>Send inn informasjon</button>-->
+        </form>
+    </main>
+    <footer>
+        <div class="footer">
+            Storm og eivinds thailand Reisebyrå <br>
+            2023©
+        </div>
+    </footer>
+</body>
+
+</html>

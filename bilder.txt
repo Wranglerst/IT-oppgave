@@ -1,33 +1,80 @@
+Hovedside
+    Bakgrunnsbilde:
+    Bilde av Oleksandr P hentet fra Pexels: https://www.pexels.com/nb-no/bilde/grantraer-miljo-bartraer-skog-1174183/
 
+    Bangkok:
+    Bilde av Steve Chen: https://www.pexels.com/nb-no/bilde/skyskrapere-utsikt-refleksjon-speilbilde-19296978/
 
+reisemål siden:
+    Phi-phi-1:
+    Bilde av Pixabay hentet fra Pexels: https://www.pexels.com/nb-no/bilde/bat-bla-bukt-cruise-358229/
+
+    Phi-phi-2:
+    Bilde av Oleksandr hentet fra Pexels : https://www.pexels.com/nb-no/bilde/reise-utsikt-over-havet-havkyst-oy-1007657/
+
+    Koh-lanta-1:
+    Bilde av Rolando Brando hentet fra Pexels: https://www.pexels.com/nb-no/bilde/reise-utsikt-over-havet-fallskjermhopper-oy-2867732/
+
+    Koh-lanta-2:
+    Bilde av Darren Lawrence hentet fra Pexels: https://www.pexels.com/nb-no/bilde/reise-utsikt-over-havet-havkyst-oy-3417733/
+
+    Bangkok-1:
+    Bilde av allPhoto Bangkok hentet fra Pexels: https://www.pexels.com/nb-no/bilde/ute-skyskrapere-kveld-stjerner-3121347/
+
+    Bangkok-2:
+    Bilde av Oleksandr P hentet fra Pexels: https://www.pexels.com/nb-no/bilde/refleksjon-speilbilde-opplyst-tempel-1929611/
+
+    Phuket-1:
+    Bilde av Anirut R. hentet fra Pexels: https://www.pexels.com/nb-no/bilde/pagode-turistattraksjon-arkitektur-wat-12100193/
+
+    Phuket-2:
+    Bilde av Phakchira Sukcharearn hentet fra Pexels: https://www.pexels.com/nb-no/bilde/bla-himmel-beromt-asia-turiststed-6027587/
+
+reisesidene:
+    Bangkok:
+    Bilde av Steve Chen hentet fra Pexels: https://www.pexels.com/nb-no/bilde/skyskrapere-utsikt-refleksjon-speilbilde-19296978/
+
+    Koh Lanta:
+    Bilde av phiraphon srithakae hentet fra Pexels: https://www.pexels.com/nb-no/bilde/naturfotografi-turistdestinasjon-paradis-thailand-10835316/
+
+    Phi Phi:
+    Bilde av allPhoto Bangkok hentet fra Pexels: https://www.pexels.com/nb-no/bilde/oy-bla-himmel-strandstoler-feriested-12001661/
+
+    Phuket:
+    Bilde av Phakchira Sukcharearn hentet fra Pexels: https://www.pexels.com/nb-no/bilde/bla-himmel-beromt-asia-turiststed-6027587/
 
 
 reisekalender:
-bangkok
-https://www.pexels.com/nb-no/bilde/pagode-arkitektur-andelighet-kloster-3393546/
+    bangkok
+    Bilde av Nick Wehrli hentet fra Pexels: https://www.pexels.com/nb-no/bilde/pagode-arkitektur-andelighet-kloster-3393546/
 
-Lanta 
-https://www.pexels.com/nb-no/bilde/kyst-oy-bla-himmel-rengjore-12002133/
+    Lanta 
+    Bilde av allPhoto Bangkok hentet fra Pexels: https://www.pexels.com/nb-no/bilde/kyst-oy-bla-himmel-rengjore-12002133/
 
-phi phi 
-https://www.pexels.com/nb-no/bilde/hurtigbat-under-vann-thailand-krabi-11719917/
+    phi phi 
+    Bilde av Silent Sightseer hentet fra Pexels: https://www.pexels.com/nb-no/bilde/hurtigbat-under-vann-thailand-krabi-11719917/
 
-phuket
-https://www.pexels.com/nb-no/bilde/tre-reise-utsikt-over-havet-havkyst-14552555/
+    phuket
+    Bilde av Pradeep Ghildiyal hentet fra Pexels: https://www.pexels.com/nb-no/bilde/tre-reise-utsikt-over-havet-havkyst-14552555/
 
 om oss:
-bilde-1
-https://www.pexels.com/nb-no/bilde/stor-statue-ansikt-skulptur-937465/
+    bilde-1
+    Bilde av Suraphat Nuea-on hentet fra Pexels: https://www.pexels.com/nb-no/bilde/stor-statue-ansikt-skulptur-937465/
 
-bilde-2
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.farehawker.com%2Fimg%2Fimage%2FAirline-flight%2Fthai-airways-flight-image.jpg&f=1&nofb=1&ipt=1920d3730bede253cb27ab16ded3323d884d92466d84326f9387d43e826be7f4&ipo=images
+    bilde-2
+    Fra Thai Airways hentet hentet fra: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.farehawker.com%2Fimg%2Fimage%2FAirline-flight%2Fthai-airways-flight-image.jpg&f=1&nofb=1&ipt=1920d3730bede253cb27ab16ded3323d884d92466d84326f9387d43e826be7f4&ipo=images
 
-bilde-3
-https://www.pexels.com/nb-no/bilde/selvsikkerhet-virksomhet-mote-gruppe-776615/
+    bilde-3
+    Bilde av Marily Torres fra Pexels: https://www.pexels.com/nb-no/bilde/selvsikkerhet-virksomhet-mote-gruppe-776615/
 
-logo
-produsert selv
+    logo
+    produsert selv
 
+reisetyper:
+    bilde-1
+    Bilde av allPhoto Bangkok fra Pexels: https://www.pexels.com/nb-no/bilde/ute-skyskrapere-kveld-stjerner-3121347/
 
+    bilde-2
+    Bilde av Ivica Džambo fra Pexels: https://www.pexels.com/nb-no/bilde/erosjon-ute-klippe-stup-3578416/
 
-Pexel bilder er gratis stock images
+Pexel bilder er lisensfrie stock images

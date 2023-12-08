@@ -1,5 +1,5 @@
 main{
-    width:98.9vw;
+    width:100vw;
     display: grid;
     grid-template-columns: auto / auto;
     margin:0;
