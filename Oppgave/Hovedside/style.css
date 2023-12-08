@@ -1,5 +1,5 @@
 main{
-    height:90rem;
+    height:60rem;
     width:98.9vw;
     background-size:contain;
     display: grid;
@@ -30,7 +30,7 @@ main{
     grid-column: 1/6;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 10em);
     
 
 }
@@ -55,8 +55,7 @@ main{
 .knapp {
     display: flex;
     justify-content: end;
-    align-items: end;
-    margin-right: 3rem;
+    align-items: end;  
 }
 
 .program {
@@ -73,6 +72,6 @@ main{
 }
 
 .lenke {
-    grid-column: 7;
-    grid-row: 2;
+    grid-column: 1/4;
+    grid-row: 3;
 }
