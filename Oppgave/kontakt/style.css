@@ -129,6 +129,7 @@ div label{
 }
 
 .info{
+    margin-top:0.7rem;
     grid-area:1/2;
     display:grid;
     color:white;
@@ -163,17 +164,15 @@ li h3{
     margin-bottom: -0.5rem;
 }
 
-li a{
+.kontakt-info ul li a{
     color:#8ECAE6;
     text-decoration:none;
     margin-bottom: 1rem;
 }
 
-a:hover{
+.kontakt-info ul li a:hover{
     border:none;
 }
-
-
 
 .kontakt1{
     grid-area:1/1;

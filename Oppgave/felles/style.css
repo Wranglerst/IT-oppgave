@@ -1,5 +1,5 @@
 html{
-    font-size: 80%;
+    font-size:0.8vw;
 }
 
 body{
@@ -51,13 +51,47 @@ header > .header-element  ~ .header-element{
     border-radius: 1.8rem;
 }
 
+main{
+    min-height: 90vh;
+}
+
 
 footer{
     width:100vw;
     background-color: lightgray;
     color:black;
-    display:flex;
-    justify-content: center;
     font-size:1.5rem;
 }
 
+.footer-grid{
+    width:95vw;
+    display: grid;
+    padding:1rem;
+}
+
+.footer-grid div ul a {
+    color:black;
+}
+
+.footer-grid div ul{
+    list-style-type: none;
+}
+
+.media{
+    display:flex;
+    justify-content: left;
+    grid-area:1/1;
+}
+
+.copyright{
+    padding-top: 2rem;
+    display:flex;
+    justify-content: center;
+    grid-area:1/2;
+}
+
+.footer-links{
+    display:flex;
+    justify-content: right;
+    grid-area:1/3;
+}

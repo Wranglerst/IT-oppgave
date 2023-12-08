@@ -51,8 +51,8 @@ main{
 }
 
 .tekst {
-    grid-area:2/1/span 2;
-    font-size:1.6rem;
+    grid-area:2/1;
+    font-size:1.2rem;
 }
 
 .bilde-1 {
