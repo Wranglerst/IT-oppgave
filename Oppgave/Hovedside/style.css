@@ -1,23 +1,27 @@
 main{
-    height:100vh;
+    height:120rem;
     width:98.9vw;
-    background-color: #126782;
     background-size:contain;
-    display:flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    background-image: url(../Hovedside/media/amazon.jpg);
+    
 }
 
-.over{
-    align-self: center;
-    font-weight: bold;
-    color:white;
-    font-size:2.5rem;
+.hold{
+    grid-template-areas: center;
+    grid-row: 1;
+    grid-column: 3/4;
 }
-.bakgrunn{
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+.tittel{
+    color: white;
 }
-main {
-    height: 150rem;
+
+.info {
+    background-color: red;
+    border: 1px solid black;
+    grid-column: 1/6;
+    grid-row: 2/3;
+
 }
